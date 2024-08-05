@@ -7,11 +7,11 @@
 
 - We are currently taking help from [Flesk](https://flesk.tn/)
 
-- 💬 Ask me us **React, NodeJS, Mongodb, AdobePhotoshop, AdobeIllustrator**
+- 💬 Ask us about **React, NodeJS, Mongodb, AdobePhotoshop, AdobeIllustrator Work **
 
 - 📫 How to reach us **codifyfreelancing@gmail.com**
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Connect with us :</h3>
 <p align="left">
 <a href="https://instagram.com/codify.tn" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="codify.tn" height="30" width="40" /></a>
 </p>
