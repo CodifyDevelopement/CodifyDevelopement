@@ -9,7 +9,7 @@
 
 - 💬 Ask us about **React, NodeJS, Mongodb, AdobePhotoshop, AdobeIllustrator Work **
 
-- 📫 How to reach us **codifyfreelancing@gmail.com**
+- 📫 How to reach us **bonjour@codify.tn**
 
 <h3 align="left">Connect with us :</h3>
 <p align="left">
